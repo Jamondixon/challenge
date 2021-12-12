@@ -15,18 +15,20 @@ h1 {
     font-family: 'Essonnes Display';
     position: absolute;
     left: .45em;
-    bottom: 1em;
+    bottom: 14vh;
     font-size: 14vw;
     letter-spacing: .05em;
 }
 
 .plus-icon {
-    height: 4vw;
+    display: flex;
+    height: 4vh;
     width: 4vw;
     position: absolute;
-    left: 10%;
-    bottom: 20%;
-    padding-top: .5em;
+    left: 0;
+    bottom: 0;
+    margin-left: 10vw;
+    margin-bottom: 14vh;
 }
 
 .facebook-icon {
