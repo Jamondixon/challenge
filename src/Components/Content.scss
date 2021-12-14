@@ -12,16 +12,18 @@
     font-size: 4vw;
     font-family: 'Essonnes Display';
     color: #611818;
-    margin-left: 1em;
+    margin-left: 4.2vw;
     margin-top: 1.3em;
 }
 
 .content {
-    font-size: 14px;
-    line-height: 2em;
+    font-size: 13px;
+    line-height: 2.2em;
     position: absolute;
-    left: 3em;
+    left: 3vw;
     margin-right: 6em;
+    margin-bottom: 2em;
+    letter-spacing: .05em;
 }
 
 hr {
@@ -43,8 +45,11 @@ hr {
 .read-more {
     background-image: linear-gradient(to right, #611818, #A36754);
     position: absolute;
-    left: 4.5vw;
-    bottom: 3em;
+    left: 4.4vw;
+    bottom: 5vh;
     height: 55px;
     width: 235px;
+    font-size: 20px;
+    letter-spacing: .05em;
+    
 }
