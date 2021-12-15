@@ -5,15 +5,15 @@
     background-color: white;
     box-shadow: -1px 0px 30px 2px rgba(0,0,0,0.5);
     top: 100px;
-    right: 49%;
+    left: 11em;
     animation: 5s ease-in-out 5s;
 }
 
 .content-title {
-    font-size: 4vw;
+    font-size: 60px;
     font-family: 'Essonnes Display';
     color: #611818;
-    margin-left: 4.2vw;
+    margin-left: 60px;
     margin-top: 1.3em;
 }
 
@@ -21,7 +21,7 @@
     font-size: 13px;
     line-height: 2.2em;
     position: absolute;
-    left: 3vw;
+    left: 40px;
     margin-right: 6em;
     margin-bottom: 2em;
     letter-spacing: .05em;
@@ -31,7 +31,7 @@ hr {
     width: 40%;
     height: 1px;
     position: absolute;
-    left: 4.5vw;
+    left: 65px;
     background-image: linear-gradient(
         to right,
         rgb(97, 24, 24),
@@ -46,7 +46,7 @@ hr {
 .read-more {
     background-image: linear-gradient(to right, #611818, #A36754);
     position: absolute;
-    left: 4.4vw;
+    left: 60px;
     bottom: 5vh;
     height: 55px;
     width: 235px;
