@@ -22,8 +22,9 @@ export default function Challenge(props) {
             myBox.style.display = 'none'
         } else {
             myBox.style.display = 'block'
+            
             const info = document.querySelector(".initial-container")
-        info.style.display = 'none'
+            info.style.display = 'none'
         }
     }
 
