@@ -9,6 +9,7 @@ export default function Content({ showInitialInfo }) {
         contentInfo.style.display = 'none'
         showInitialInfo()
     }
+
     
     return (
         <div className="content-container">
