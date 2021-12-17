@@ -1,4 +1,7 @@
 {
+  "homepage" : "https://{jamondixon}.github.io/{challenge}",
+
+
   "name": "challenge",
   "version": "0.1.0",
   "private": true,
